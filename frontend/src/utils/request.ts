@@ -1,0 +1,1 @@
+export const BASE_WHATEVER = import.meta.env.VITE_BACKEND_URL ?? "https://dsmetafernando.herokuapp.com";
